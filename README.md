@@ -1,1 +1,1 @@
-# SaperHelper-SRP
+Saper Helper - Скрипт сделан для удобного разминирования бомб. команда - /shelper.
